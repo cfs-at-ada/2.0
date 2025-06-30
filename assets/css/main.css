@@ -3259,7 +3259,7 @@ input, select, textarea {
 }
 
 body {
-  background-color: #f0f4f4 !important; /* oder der genaue Grauton deiner Seite */
+  background-color: #dfe4ea !important; /* oder der genaue Grauton deiner Seite */
 }
 
 @media (max-width: 768px) {
@@ -3278,7 +3278,7 @@ body {
     display: none !important;
     height: 0 !important;
     content: none !important;
-	background-color: #f0f4f4 !important;
+	background-color: #dfe4ea !important;
   }
 
   .hero-name {
@@ -3287,7 +3287,7 @@ body {
     margin: 0em auto 0em auto !important;
     padding-top: 0.5em !important;
     text-align: center !important;
-	background-color: #f0f4f4 !important;
+	background-color: #dfe4ea !important;
 	
     
 	
